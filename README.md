@@ -8,7 +8,7 @@ https://www.apple.com/covid19/mobility
 
 And measured _air pollution levels_ from:
 
-##Phoenix Monitor: 
+## Phoenix Monitor
 
 JLG SUPERSITE \#_40139997_
 
@@ -16,7 +16,7 @@ JLG SUPERSITE \#_40139997_
 
 Data obtained from:
 
-### Maricopa County Air Quality Department:
+### Maricopa County Air Quality Department
 http://alert.fcd.maricopa.gov/alert/Google/v3/air.html
 
 ### EPA Air Quality Data Collected at Outdoor Monitors
